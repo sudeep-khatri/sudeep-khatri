@@ -7,7 +7,6 @@ My name is Sudeep and I'm a student taking CS courses.
 
 
 🌱 Interests:
-
-Maths <br>
-Machine Learning <br>
-Content creation (YouTube & Instagram)
+* Maths <br>
+* Machine Learning <br>
+* Content creation (YouTube & Instagram)
